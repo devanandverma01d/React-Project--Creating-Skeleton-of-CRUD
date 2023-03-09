@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Project--Creating-Skeleton-of-CRUD/static/css/main.756af292.css",
-    "main.js": "/React-Project--Creating-Skeleton-of-CRUD/static/js/main.d3aa5c67.js",
+    "main.js": "/React-Project--Creating-Skeleton-of-CRUD/static/js/main.cfda1873.js",
     "index.html": "/React-Project--Creating-Skeleton-of-CRUD/index.html",
     "main.756af292.css.map": "/React-Project--Creating-Skeleton-of-CRUD/static/css/main.756af292.css.map",
-    "main.d3aa5c67.js.map": "/React-Project--Creating-Skeleton-of-CRUD/static/js/main.d3aa5c67.js.map"
+    "main.cfda1873.js.map": "/React-Project--Creating-Skeleton-of-CRUD/static/js/main.cfda1873.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.d3aa5c67.js"
+    "static/js/main.cfda1873.js"
   ]
 }
